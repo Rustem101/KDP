@@ -1,5 +1,14 @@
 # KDP
 
+The main features of the game include a fully dark environment with the main character only seeing his surroundings.
+The goal is to get to the end of the game to rescue the princess. 
+Obstacles include dragons, lava, and dragon eggs. The user may utilize caves to hide from the
+dragons and the torch to expand the light circle, as well as special items such as a sword, boots that boost jumping, and an immunity bubble.
+
+The cave can be entered by pressing ENTER and exitted by pressing TAB. The torch is turned on by pressing T.
+
+Some screenshots of the gameplay:
+
 ![image](https://user-images.githubusercontent.com/44526117/190724068-b298b8e2-d28d-415b-b668-84ec1cdeb70d.png)
 
 ![image](https://user-images.githubusercontent.com/44526117/190724101-b4984ac3-2a54-4c73-8612-166eaca32487.png)
